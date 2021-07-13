@@ -14,7 +14,7 @@ function component() {
   myIcon.src = Icon;
 
   element.appendChild(myIcon);
-  
+
   return element;
 }
 
